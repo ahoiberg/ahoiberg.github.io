@@ -1,3 +1,5 @@
+I've adapted this from my personal site, credit goes to HTML5 UP, and their README is below.
+
 Big Picture by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
