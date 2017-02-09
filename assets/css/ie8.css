@@ -69,18 +69,18 @@
 
 /* One */
 
-	#one {
+	#education {
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 		background: url("../../images/carm_winter.jpg");
 		background-size: cover;
 	}
 
-		#one .content {
+		#education .content {
 			position: relative;
 			z-index: 1;
 		}
 
-		#one.left:before, #one.right:after {
+		#education.left:before, #education.right:after {
 			content: '';
 			background: url("images/overlay.png");
 			width: 100%;
@@ -90,20 +90,20 @@
 			top: 0;
 		}
 
-/* Two */
+/* #background*/
 
-	#two {
+	#background{
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 		background: url("../../images/coding_stock_photo_adjusted.jpg");
 		background-size: cover;
 	}
 
-		#two .content {
+		#background.content {
 			position: relative;
 			z-index: 1;
 		}
 
-		#two.left:before, #two.right:after {
+		#background.left:before, #background.right:after {
 			content: '';
 			background: url("images/overlay.png");
 			width: 100%;
